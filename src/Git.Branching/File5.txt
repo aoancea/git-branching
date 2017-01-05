@@ -1,1 +1,3 @@
 ﻿text from master 2
+
+text from master 1.2
